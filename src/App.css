@@ -108,6 +108,7 @@ h3 {
 	display: flex;
 	flex-wrap: wrap;
 	margin-top: 30px;
+	margin-right: -120px;
 }
 
 .form-mt {
@@ -115,7 +116,7 @@ h3 {
 }
 
 .width-10 {
-	width: 20%;
+	width: 15%;
 }
 
 .single_product {
@@ -364,7 +365,7 @@ table tr th {
 
 table tr td {
 	width: 280px;
-	text-align: center;
+	text-align: right;
 	font-size: 90%;
 }
 
@@ -376,6 +377,7 @@ table tr td {
 	height: 23px;
 	width: 95%;
 	border-radius: 5px;
+	text-align: right;
 	border: 1px solid rgb(197, 197, 197);
 	color: rgb(53, 53, 53);
 	outline: none;
